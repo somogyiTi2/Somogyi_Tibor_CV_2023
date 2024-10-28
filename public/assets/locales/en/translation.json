@@ -1,0 +1,369 @@
+{
+  "navigation": [
+    {
+      "id": 1,
+      "to": "/",
+      "title": "Home"
+    },
+    {
+      "id": 2,
+      "to": "/references",
+      "title": "References"
+    },
+    {
+      "id": 3,
+      "to": "/certificate",
+      "title": "Certificate"
+    }
+  ],
+  "homePage": "My name is Tibor Somogyi... Welcome to my digital portfolio, where I have collected my experiences and works so far in one place.",
+  "certificate": [
+    {
+      "type": [
+        "experience & certificate",
+        "experience",
+        "certificate"
+      ]
+    },
+    {
+      "certificate": [
+        {
+          "id": 1,
+          "title": "Graduation certificate",
+          "img": "https://www.svgrepo.com/show/87194/diploma.svg",
+          "time": "2016",
+          "categorie": "certificate"
+        },
+        {
+          "id": 2,
+          "title": "I-Code",
+          "text": "Linux, HTML, CSS, WordPress, PHP",
+          "img": "https://lh3.googleusercontent.com/a-/AD_cMMTZ-MAJVy0_BafvySa0JXO5cSQCsXedOkGACQNN=w60-h60-p-rp-mo-br100",
+          "time": "2018-2019",
+          "categorie": "experience"
+        },
+        {
+          "id": 3,
+          "title": "Gábor Dénes University",
+          "text": "BSc | Computer engineer",
+          "time": "2016-2020",
+          "img": "https://gde.hu/img/GDE_logo.png",
+          "link": "https://drive.google.com/file/d/10sd__T1ZamhxhcB5Va9Uaenbg1XP4gG1/view?usp=sharing",
+          "categorie": "certificate"
+        },
+        {
+          "id": 4,
+          "title": "COLIBRI-PRINT Press preparer",
+          "text": "Adobe Photoshop, Adobe Illustrator",
+          "img": "https://colibriprint.hu/wp-content/uploads/2022/10/web-logo-colibriprint.png",
+          "time": "2021-2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 5,
+          "title": "Udemy: The Complete 2023 Web Development Bootcamp",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "HTML, CSS, JS, jQuery, Git, Node.js, MongoDB",
+          "link": "https://www.udemy.com/certificate/UC-cb61b73c-5805-4d1a-a00f-e423b5681718/",
+          "time": "2021-2022",
+          "categorie": "certificate"
+        },
+        {
+          "id": 6,
+          "title": "Országos Meteorológiai Szolgálat",
+          "img": "https://www.met.hu/images/logo/omsz_logo_1362x492_300dpi.png",
+          "text": "HTML, CSS, PHP, MySQL, JQuery, Bootstrap",
+          "time": "2021-2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 7,
+          "title": "All You Can Move (MBSM)",
+          "img": "https://www.visa.com/images/merchantoffers/2022-03/1647850408695.aycm-logo-400x300.jpeg",
+          "text": "HTML, CSS, JS, React",
+          "time": "2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 8,
+          "title": "Udemy:  React - The Complete Guide",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "React, Redux, Redux Toolkit, Next.js",
+          "link": "https://www.udemy.com/certificate/UC-cb61b73c-5805-4d1a-a00f-e423b5681718/",
+          "time": "2022-2023",
+          "categorie": "certificate"
+        },
+        {
+          "id": 9,
+          "title": "Új Világ",
+          "img": "https://www.digitalevolution.hu/pic/upload/uvl.png",
+          "text": "React, Redux (Redux SAGA), Next.js,Nest.js, Git, SCSS (SASS), Type Script,Yarn, Syncusion",
+          "time": "2023-2024",
+          "categorie": "experience"
+        },
+        {
+          "id": 10,
+          "title": "Udemy:  React - Typescipt",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "Typescipt",
+          "link": "https://www.udemy.com/certificate/UC-505a74a5-c9e2-43f5-8ea4-f8c6d2d8a126/",
+          "time": "2023",
+          "categorie": "certificate"
+        }
+      ]
+    }
+  ],
+  "References": [
+    {
+      "id": 1,
+      "title": "CV 2",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv2.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/CV2Secund.gif",
+      "text": "This is my first CV.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/css-CV2/index.html",
+      "category": [
+        "HTML",
+        "CSS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/css-CV2"
+    },
+    {
+      "id": 2,
+      "title": "CV 3",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv3.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv3.gif",
+      "text": "At that time, I started working with Bootstrap. This was a practice page.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/CV3_Bootstrap/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/CV3_Bootstrap"
+    },
+    {
+      "id": 3,
+      "title": "Dice Game",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/dobolj.jpg",
+      "text": "The first JavaScript game I created. You can roll two dice, and the page will tell you which one won.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/F/Kockajatek/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/Kockajatek/"
+    },
+    {
+      "id": 4,
+      "title": "Drum Kit",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/kockaJatek.jpg",
+      "text": "You can play the drums on this page using both the keyboard and mouse clicks.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/F/dob/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/dob"
+    },
+    {
+      "id": 5,
+      "title": "Blog Website",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/ejs01.jpg",
+      "text": "My own blog website that stores data on the server side.",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/Hyper/ejs-challenge"
+    },
+    {
+      "id": 6,
+      "title": "Log in Google",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/Secrets_01.jpg",
+      "text": "In this project, I created an authenticated website that stores login information in a database. It also remembers the login using local state until you log out. It accepts login with Facebook and Google accounts.",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS",
+        "MongoDB"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/dob"
+    },
+    {
+      "id": 7,
+      "title": "ToDo List (Node)",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/todolist_v1.jpg",
+      "text": "A simple to-do list that stores data in a database. Additionally, by appending the URL, we can create new lists (which are also stored in the database).",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS",
+        "MongoDB"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/Hyper/todolist_v2"
+    },
+    {
+      "id": 8,
+      "title": "ToDo List (First React)",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/ToDoReact.jpg",
+      "text": "First to-do list in React.",
+      "link": "https://codesandbox.io/s/33-28-keeper-part-3-starting-g3ybit?file=/src/index.js",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://codesandbox.io/s/33-28-keeper-part-3-starting-g3ybit?file=/src/index.js"
+    },
+    {
+      "id": 9,
+      "title": "CodeYard Admission Task",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/codeYard.jpg",
+      "secundImg": "https://somogyiti2.github.io/First_step_Wikia/jegyzetek/img/codeyard_m.jpg",
+      "text": "Creating a body shield according to a given task.",
+      "link": "https://somogyiti2.github.io/CodeYard/",
+      "category": [
+        "React",
+        "Firebase",
+        "Bootstrap",
+        "HTML",
+        "CSS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/13_17_Restaurant_project_full"
+    },
+    {
+      "id": 10,
+      "title": "First Online Shop",
+      "secundImg": "https://somogyiti2.github.io/First_step_Wikia/react/react_feladatok/13_17_Restaurant_project_full.gif",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/webshop.jpg",
+      "text": "A small online shop with a shopping cart feature. Upon providing some required data, the order is stored in a Firebase database.",
+      "category": [
+        "React",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/13_17_Restaurant_project_full"
+    },
+    {
+      "id": 11,
+      "title": "Asynchronous functioning shopping cart",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/async.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/async.gif",
+      "text": "Asynchronous functioning shopping cart",
+      "category": [
+        "React",
+        "Redux",
+        "Redux-toolkit",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/16_19_Redux_aszinkorn_kosar_mentes"
+    },
+    {
+      "id": 12,
+      "title": "Confectionery",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cukraszda.jpg",
+      "secundImg": "https://somogyiti2.github.io/CV/img/online_cukr%C3%A1szda.gif",
+      "link": "https://react-bemutato-cukraszda-webshop.vercel.app/",
+      "text": "A small webshop with a shopping cart and a few mandatory data fields. Our orders are stored in a Firebase database. Additionally, there is an admin interface where we can add new products and view the list of orders. The page allows switching between viewed and non-viewed pages.",
+      "category": [
+        "React",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS",
+        "Bootstrap"
+      ],
+      "git": "https://github.com/somogyiTi2/somogyiTi2-react-bemutato-cukraszda_webshop"
+    },
+    {
+      "id": 13,
+      "title": "ToDo List (React Native)",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/TodoReactNatiefirst.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/TodoReactNatie.jpg",
+      "text": "A multiplatform mobile application. A to-do list.",
+      "category": [
+        "React Native"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/blob/main/REACT_NATIVE/3-25_ScollView.js"
+    },
+    {
+      "id": 14,
+      "title": "Imaginary News Feed",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/kitalalt.jpg",
+      "text": "A simple multi-page CRUD (Create Read Update Delete) application with authentication.",
+      "category": [
+        "Next.js",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/blob/main/REACT_NATIVE/3-25_ScollView.js"
+    },
+    {
+      "id": 15,
+      "title": "Falatozz",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/falatozz.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/falatozz.gif",
+      "text": "Task for the Falatozz interview. Falatozz.hu is a web application with CRUD (Create, Read, Update, Delete) functionalities. The website consists of two main pages: the Read page ('/' or Home) and the Create page ('/create'). The navigation bar allows easy navigation between the pages. If the page is called incorrectly, we end up on the error page. On the Read page, the products are displayed in a card-like interface, where each product has a name, description, and quantity. There are buttons available for editing and deleting. By pressing the edit button, a window appears where it is possible to edit the product's data. Clicking the update button refreshes the data in the database. Clicking the delete button prompts a confirmation window, and if we confirm the deletion, the product is deleted from the database. On the Create page, it is possible to create a new product. After filling in the mandatory fields, clicking the Submit button adds the product to the database. The development of the web application utilized the React framework, the react-router-dom extension, and the Firebase backend.",
+      "link": "https://falatozz-somogyiti2.vercel.app/",
+      "category": [
+        "React",
+        "React-router",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/falatozz_react"
+    },
+    {
+      "id": 16,
+      "title": "CV Reactos",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/CVReact.jpg",
+      "text": "This is the page. 😀",
+      "category": [
+        "React",
+        "React-router",
+        "i18next",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": ""
+    },
+    {
+      "id": 17,
+      "title": "Comnica",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/refs/heads/main/jegyzetek/img/bemutato/Comnica.jpg",
+      "text": "Interview task: Interface Creation: Create the interface using AngularJS, Hyperapp, or React framework based on the provided image! Use any logo and illustration. Font: Roboto. Color codes: #31363c, #29a98b, #20876f, #186553, #682c5d. Organize the button into a separate component, and make it log to the console on click. Be creative with placement and sizing! Button Issue Analysis: Analyze the problem if the button does not respond to hover or click events. User List Retrieval: Write a JavaScript function that fetches a user list from an API, then assigns random colors to the users, and logs to the console at the end. Input Field Functionality: Examine the input field functionality as envisioned by the designer: Present the empty and filled states, as well as formulate the general issue.",
+      "category": [
+        "React",
+        "Types Script",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/Comnica",
+      "link": "https://comnica.vercel.app/"
+    }
+  ],
+  "errorPage": "Unfortunately, this page cannot be found.",
+  "back": "Back",
+  "curriculumVitae": "Curriculum vitae",
+  "connects": "Connects",
+  "programs": "Programs",
+  "graphics": "Graphics"
+}

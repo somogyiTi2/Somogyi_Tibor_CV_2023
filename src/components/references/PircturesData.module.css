@@ -1,0 +1,21 @@
+.slideShow{
+   width: 600px;
+    padding: auto;
+    animation: codeanimationfel 2s; 
+}
+  
+  @keyframes codeanimationfel {
+    0% {
+      transform: translateY(4rem);
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translateY(0rem);
+    }
+  }
+  
+.slideShow h1{
+  color:rgb(0, 0, 0)
+}

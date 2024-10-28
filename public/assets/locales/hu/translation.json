@@ -1,0 +1,369 @@
+{
+  "navigation": [
+    {
+      "id": 1,
+      "to": "/",
+      "title": "Fő oldal"
+    },
+    {
+      "id": 2,
+      "to": "/references",
+      "title": "Referencia"
+    },
+    {
+      "id": 3,
+      "to": "/certificate",
+      "title": "Tapasztalat"
+    }
+  ],
+  "homePage": "A nevem Somogyi Tibor...Üdv a digitális portfóliómban, ahol összegyűjtöttem egy helyen az eddigi tapasztalataimat.",
+  "certificate": [
+    {
+      "type": [
+        "tapasztatok",
+        "munkahelyek",
+        "oklevelek"
+      ]
+    },
+    {
+      "certificate": [
+        {
+          "id": 1,
+          "title": "Érettségi bizonyítvány",
+          "img": "https://www.svgrepo.com/show/87194/diploma.svg",
+          "time": "2016",
+          "categorie": "certificate"
+        },
+        {
+          "id": 2,
+          "title": "I-Code",
+          "text": "Linux, HTML, CSS, WordPress, PHP",
+          "img": "https://lh3.googleusercontent.com/a-/AD_cMMTZ-MAJVy0_BafvySa0JXO5cSQCsXedOkGACQNN=w60-h60-p-rp-mo-br100",
+          "time": "2018-2019",
+          "categorie": "experience"
+        },
+        {
+          "id": 3,
+          "title": "Gábor Dénes Egyetem",
+          "text": "BSc | Mérnökinformatika Szoftver fejlesztés",
+          "time": "2016-2020",
+          "img": "https://gde.hu/img/GDE_logo.png",
+          "link": "https://drive.google.com/file/d/10sd__T1ZamhxhcB5Va9Uaenbg1XP4gG1/view?usp=sharing",
+          "categorie": "certificate"
+        },
+        {
+          "id": 4,
+          "title": "COLIBRI-PRINT Nyomdai-előkészítő",
+          "text": "Adobe Photoshop, Adobe Illustrator",
+          "img": "https://colibriprint.hu/wp-content/uploads/2022/10/web-logo-colibriprint.png",
+          "time": "2021-2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 5,
+          "title": "Udemy: The Complete 2023 Web Development Bootcamp",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "HTML, CSS, JS, jQuery, Git, Node.js, MongoDB",
+          "link": "https://www.udemy.com/certificate/UC-cb61b73c-5805-4d1a-a00f-e423b5681718/",
+          "time": "2021-2022",
+          "categorie": "certificate"
+        },
+        {
+          "id": 6,
+          "title": "Országos Meteorológiai Szolgálat",
+          "img": "https://www.met.hu/images/logo/omsz_logo_1362x492_300dpi.png",
+          "text": "HTML, CSS, PHP, MySQL, JQuery, Bootstrap",
+          "time": "2021-2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 7,
+          "title": "All You Can Move (MBSM)",
+          "img": "https://www.visa.com/images/merchantoffers/2022-03/1647850408695.aycm-logo-400x300.jpeg",
+          "text": "HTML, CSS, JS, React",
+          "time": "2022",
+          "categorie": "experience"
+        },
+        {
+          "id": 8,
+          "title": "Udemy:  React - The Complete Guide",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "React, Redux, Redux Toolkit, Next.js",
+          "link": "https://www.udemy.com/certificate/UC-cb61b73c-5805-4d1a-a00f-e423b5681718/",
+          "time": "2022-2023",
+          "categorie": "certificate"
+        },
+        {
+          "id": 9,
+          "title": "Új Világ",
+          "img": "https://www.digitalevolution.hu/pic/upload/uvl.png",
+          "text": "React, Redux (Redux SAGA), Next.js,Nest.js, Git, SCSS (SASS), Type Script,Yarn, Syncusion",
+          "time": "2023-2024",
+          "categorie": "experience"
+        },
+        {
+          "id": 10,
+          "title": "Udemy:  React - Typescipt",
+          "img": "https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png",
+          "text": "Typescipt",
+          "link": "https://www.udemy.com/certificate/UC-505a74a5-c9e2-43f5-8ea4-f8c6d2d8a126/",
+          "time": "2023",
+          "categorie": "certificate"
+        }
+      ]
+    }
+  ],
+  "References": [
+    {
+      "id": 1,
+      "title": "CV 2 ",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv2.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/CV2Secund.gif",
+      "text": "Ez az első CV-m. ",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/css-CV2/index.html",
+      "category": [
+        "HTML",
+        "CSS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/css-CV2"
+    },
+    {
+      "id": 2,
+      "title": "CV 3 ",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv3.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cv3.gif",
+      "text": "Ekkoriban kezdtem el a bootstrappal foglalkozni ez egy gyarkoló oldalom volt.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/CV3_Bootstrap/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/CV3_Bootstrap"
+    },
+    {
+      "id": 3,
+      "title": "Kocka dobás",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/dobolj.jpg",
+      "text": "Az első JS játék amit készítettem. Két dobókckával lehet dobni, amiből megmondja az oldal melyik nyert.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/F/Kockajatek/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/Kockajatek/"
+    },
+    {
+      "id": 4,
+      "title": "Dobolj",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/kockaJatek.jpg",
+      "text": "A billentyűzet és a kattintásokkal is lehet dobolni az oldalon.",
+      "link": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/F/dob/index.html",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/dob"
+    },
+    {
+      "id": 5,
+      "title": "Blog oldal",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/ejs01.jpg",
+      "text": "Saját blog oldal, mely szerver oldalon tárolja az adatokat.",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/Hyper/ejs-challenge"
+    },
+    {
+      "id": 6,
+      "title": "Log in Google",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/Secrets_01.jpg",
+      "text": "Ebben a projektben, egy autentikált webolalt hoztam létre, mely adatbázisban tárolja magukat a bejelntkezéseket. Illetve megjegyzi localState segítségével megjegyzi a bejlentkezést, mind addig míg nem jelentkezünk ki. Illetve elfogadja a facebook, illetve a google fiók bejelentkezéseket.",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS",
+        "MongoDB"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/F/dob"
+    },
+    {
+      "id": 7,
+      "title": "ToDo List (Node)",
+      "img": "https://somogyiti2.github.io/First_step_Wikia/angela_webdev/Hyper/img/todolist_v1.jpg",
+      "text": "Egy egyszerű to do list amely adatbázisban tárolja az adtokat. Illetve, az URL-t kiegészítve bármilyen új listát hozhatunk létre, (ezek is tárolodnak az adatbázisban).",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Node.js",
+        "EJS",
+        "MongoDB"
+      ],
+      "git": "https://github.com/somogyiTi2/First_step_Wikia/tree/main/angela_webdev/Hyper/todolist_v2"
+    },
+    {
+      "id": 8,
+      "title": "ToDo List (első Reactos) ",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/ToDoReact.jpg",
+      "text": "Első ToDo list reactban.",
+      "link": "https://codesandbox.io/s/33-28-keeper-part-3-starting-g3ybit?file=/src/index.js",
+      "category": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://codesandbox.io/s/33-28-keeper-part-3-starting-g3ybit?file=/src/index.js"
+    },
+    {
+      "id": 9,
+      "title": "CodeYard felvételi feladat",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/codeYard.jpg",
+      "secundImg": "https://somogyiti2.github.io/First_step_Wikia/jegyzetek/img/codeyard_m.jpg",
+      "text": "Egy feladatban megadott, bodyshild készítése",
+      "link": "https://somogyiti2.github.io/CodeYard/",
+      "category": [
+        "React",
+        "Firebase",
+        "Bootstrap",
+        "HTML",
+        "CSS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/13_17_Restaurant_project_full"
+    },
+    {
+      "id": 10,
+      "title": "Első online Webáruház",
+      "secundImg": "https://somogyiti2.github.io/First_step_Wikia/react/react_feladatok/13_17_Restaurant_project_full.gif",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/webshop.jpg",
+      "text": "Kissebb webáruház, mely rendelkezik, kosárral, és pár adat köztelező megadásával, egy firebase adatbázisba eltárolódik a rendelésünk. ",
+      "category": [
+        "React",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/13_17_Restaurant_project_full"
+    },
+    {
+      "id": 11,
+      "title": "Aszinkron működő kosár",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/async.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/async.gif",
+      "text": "Aszinkron működő kosár",
+      "category": [
+        "React",
+        "Redux",
+        "Redux-toolkid",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/tree/main/16_19_Redux_aszinkorn_kosar_mentes"
+    },
+    {
+      "id": 12,
+      "title": "Cukrászda",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/cukraszda.jpg",
+      "secundImg": "https://somogyiti2.github.io/CV/img/online_cukr%C3%A1szda.gif",
+      "link": "https://react-bemutato-cukraszda-webshop.vercel.app/",
+      "text": "Egy kissebb webáruház, mely rendelkezik, kosárral, és pár adat köztelező megadásával, egy firebase adatbázisba eltárolódik a rendelésünk. Ezen felül van egy admin mondja, amelyben új termékeket vehetünk fel, illetve megtekinthetjük a rendelések listáját, illetve megtekintett és nem megtekintett oldal között válthatunk. ",
+      "category": [
+        "React",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS",
+        "Bootstrap"
+      ],
+      "git": "https://github.com/somogyiTi2/somogyiTi2-react-bemutato-cukraszda_webshop"
+    },
+    {
+      "id": 13,
+      "title": "ToDo List (React Native) ",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/TodoReactNatiefirst.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/TodoReactNatie.jpg",
+      "text": "Multi platformos, mobil alkalmazás. Egy toDo list.",
+      "category": [
+        "React Native"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/blob/main/REACT_NATIVE/3-25_ScollView.js"
+    },
+    {
+      "id": 14,
+      "title": "Kitalált hírfolyam",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/kitalalt.jpg",
+      "text": "Egy egyszerű több oldalas CRUD (Create Read Update Delet) autentikációval megvalósítva.",
+      "category": [
+        "Next.js",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/wikia-react/blob/main/REACT_NATIVE/3-25_ScollView.js"
+    },
+    {
+      "id": 15,
+      "title": "Falatozz",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/falatozz.jpg",
+      "secundImg": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/falatozz.gif",
+      "text": "Feladat a Falatozz interjújára. A Falatozz.hu webalkalmazás egy CRUD (Create, Read, Update, Delete) funkciókkal rendelkező webalkalmazás. A weboldal két fő oldalból áll: a Read oldal ('/' vagy Home) és a Create oldal ('/create'). A navigációs sáv lehetővé teszi a könnyű navigációt az oldalak között. A hiba oldalra kerülünk, ha hibásan hívjuk meg az oldalt. A Read oldalon a termékek kártyaszerű felületen vannak elhelyezve, ahol minden termékhez tartozik név, leírás és mennyiség. Szerkesztéshez és törléshez gombok is rendelkezésre állnak. A szerkesztés gomb megnyomásával egy ablak jelenik meg, ahol lehetőség van a termék adatainak szerkesztésére. A frissítés gombra kattintva az adatok frissülnek az adatbázisban. A törlés gombra kattintva egy megerősítő ablak jelenik meg, és ha a törlést megerősítjük, akkor a termék törlődik az adatbázisból. A Create oldalon új terméket lehet létrehozni. A kötelező mezők kitöltése után a Küldés gombra kattintva a termék hozzáadódik az adatbázishoz. A webalkalmazás fejlesztéséhez a React keretrendszert, a react-router-dom bővítményt és a Firebase backendet használták.",
+      "link": "https://falatozz-somogyiti2.vercel.app/",
+      "category": [
+        "React",
+        "React-router",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/falatozz_react"
+    },
+    {
+      "id": 16,
+      "title": "CV Reactos",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/main/jegyzetek/img/bemutato/CVReact.jpg",
+      "text": "Ez az oldal. 😀",
+      "category": [
+        "React",
+        "React-router",
+        "i18next",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "git": ""
+    },
+    {
+      "id": 17,
+      "title": "Comnica",
+      "img": "https://raw.githubusercontent.com/somogyiTi2/First_step_Wikia/refs/heads/main/jegyzetek/img/bemutato/Comnica.jpg",
+      "text": "Interview task: Felület létrehozása: Készítsd el a felületet AngularJS, hyperapp vagy React keretrendszer használatával, az alábbi kép alapján! Használj tetszőleges logót és illusztrációt. Betűtípus: Roboto. Színkódok: #31363c, #29a98b, #20876f, #186553, #682c5d. A gombot szervezd ki egy komponensbe, és kattintásra írjon a console-ra. Légy kreatív az elhelyezés és méretezés terén. Gomb probléma elemzése: Elemezd a problémát, ha a gomb nem reagál hover vagy kattintás eseményekre. Felhasználói lista lekérése: Írj egy JavaScript funkciót, ami lekér egy felhasználói listát egy API-ról, majd tetszőleges színeket rendel a felhasználókhoz, és konzolra ír a végén. Beviteli mező működése: A designer által elképzelt beviteli mező működésének vizsgálata: Kitöltetlen és kitöltött állapot bemutatása, valamint az általános probléma megfogalmazása.",
+      "category": [
+        "React",
+        "Types Script",
+        "CSS",
+        "JS"
+      ],
+      "git": "https://github.com/somogyiTi2/Comnica",
+      "link": "https://comnica.vercel.app/"
+    }
+  ],
+  "errorPage": "Ezt az oldalt sajnos nem található.",
+  "back": "Vissza",
+  "curriculumVitae": "Önéletrajz",
+  "connects": "Kapcsolatok",
+  "programs": "Programok",
+  "graphics": "Grafikák"
+}

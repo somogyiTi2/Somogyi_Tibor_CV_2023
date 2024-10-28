@@ -1,0 +1,104 @@
+.row {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.SVG_Profil {
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+  -webkit-mask: url(../assets/BlobSVG.svg) no-repeat 50% 50%;
+  mask: url(../assets/BlobSVG.svg) no-repeat 50% 50%;
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  background: url(../assets/me.jpg) 50% 0%;
+  background-size: cover;
+}
+
+.flasshing {
+  width: 10px;
+  height: 50px;
+  position: absolute;
+  background-color: #65c7b9;
+  animation: example 1s infinite;
+}
+
+@keyframes example {
+  from {
+    background-color: rgb(74, 141, 207);
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.SVGFly {
+  position: absolute;
+  left: 30%;
+}
+
+.uptext {
+  color: rgb(0, 0, 0);
+  background-color: rgb(74, 141, 207, 50%);
+  border-radius: 30px;
+  padding: 20px;
+  animation: codeanimationfel 2s;
+  margin-top: 2%;
+}
+
+@keyframes codeanimationfel {
+  0% {
+    transform: translateY(4rem);
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0rem);
+  }
+}
+
+.uptext svg {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.uptext svg :hover {
+  fill: #00ffff;
+}
+
+
+.curriculumVitae {
+  animation: codeanimationfel 2s;
+  margin-top: 20px;
+}
+
+.curriculumVitae div {
+  margin-left: 1rem;
+}
+
+.curriculumVitaeQR {
+  height: 150px;
+}
+
+.curriculumVitaeQR:hover {
+  filter: opacity(0.5) drop-shadow(0 0 0 #00ffff);
+}
+
+.textHelloWorld {
+  color: rgb(0, 0, 0)
+}
+
+.footer {
+  svg {
+    width: 100px;
+  }
+
+  em {
+    padding-top: 15px;
+    justify-content: center;
+  }
+}

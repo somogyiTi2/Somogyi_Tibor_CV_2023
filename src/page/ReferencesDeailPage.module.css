@@ -1,0 +1,25 @@
+.card{
+margin: 0 30px;}
+.card p {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card h1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card img {
+  width: 40%;
+}
+
+.card a {
+  fill: rgb(0, 0, 0);
+}
+
+.card a :hover {
+  fill: white;
+}

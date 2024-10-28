@@ -1,0 +1,25 @@
+/* Style the counter cards */
+.cards {
+  box-shadow: 0 10px 10px 0 rgb(0, 0, 0, 20%);
+  text-align: center;
+  background-color: #54AAFF;
+}
+.cards:hover {
+  background-color: #00CBFF;
+ }
+
+.cards img {
+  height: 20rem;
+  width: 100%;
+}
+
+.cards a {
+  fill: #000000;
+}
+
+.cards a :hover {
+  fill: #fff;
+}
+.cards em {
+  padding: 2px;
+}

@@ -1,0 +1,94 @@
+.header {
+  background-color: #478dd3;
+  margin: auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 0px;
+}
+
+.list {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.list a {
+  text-decoration: none;
+  color: #000;
+}
+
+.list a:hover,
+.list a.active {
+  color: #00ffff;
+  text-decoration: underline;
+}
+.languageChangeButtons li:hover {
+  color: #00ffff;
+  text-decoration: underline;
+}
+
+/* internet */
+nav {
+  display: flexbox;
+}
+
+ul li {
+  position: relative;
+  list-style-type: none;
+}
+
+ul li ul li:hover {
+color:#00ffff
+}
+
+ul li ul {
+  color:#000;
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  padding-left: 0;
+  display: none;
+  border-radius: 20%;
+  background: #54aaff;
+  animation: openLanguageChangerAnimation 2s;
+}
+@keyframes openLanguageChangerAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  ul li ul {
+    margin-left: -120%;
+    animation: litlescreenOpenLanguageChangerAnimation 2s;
+  }
+  @keyframes litlescreenOpenLanguageChangerAnimation {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+}
+
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  text-align: left;
+  padding-top: 10px;
+}
+
+
+.languageSVG{
+  fill:#000;
+}
+.languageSVG :hover {
+  fill: #00ffff;
+}
